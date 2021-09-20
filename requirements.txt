@@ -1,0 +1,6 @@
+scanpy
+scIB
+harmonypy
+scanorama
+pegasuspy
+bbknn
