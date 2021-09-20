@@ -10,8 +10,8 @@ Step 3. Increase the memory for docker from settings the program needs atleast 8
 
 Step 4. xml2 is not present in the system to get it the commands are
 
-     -  sudo apt-get update
-     -  sudo apt-get install libxml2-dev
+       sudo apt-get update
+       sudo apt-get install libxml2-dev
      
 Step 5. Open R from terminal and install library devtools
 
