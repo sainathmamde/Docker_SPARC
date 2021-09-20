@@ -1,5 +1,7 @@
 This docker has both R and Python installed with all necessary basic packages. Necessary for single cell analysis.
+
 Steps to create the exact environment for analysis.
+
 Step 1. Pull the docker link given below
 Step 2. launch the jupyter lab
 Step 3. Increase the memory for docker from settings the program needs atleast 8gb of RAM.
