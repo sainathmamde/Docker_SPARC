@@ -3,13 +3,20 @@ This docker has both R and Python installed with all necessary basic packages. N
 Steps to create the exact environment for analysis.
 
 Step 1. Pull the docker link given below
+
 Step 2. launch the jupyter lab
+
 Step 3. Increase the memory for docker from settings the program needs atleast 8gb of RAM.
+
 Step 4. xml2 is not present in the system to get it the commands are
+
      -  sudo apt-get update
      -  sudo apt-get install libxml2-dev
+     
 Step 5. Open R from terminal and install library devtools
+
 Step 6. devtools::install_github('theislab/kBET')
+
 Step 7. pip install requirements.txt
 
 # What is Docker?
