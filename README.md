@@ -1,3 +1,5 @@
+This docker has both R and Python installed with all necessary basic packages.
+
 # What is Docker?
 Docker is a software system that uses containers. Containers are isolated user-defined instances that operate as separate computers and have various levels of restricted access to the host computer's resources (e.g., shared folders). More than one container can run simultaneously on a host, communicating with the host and other containers.
 
